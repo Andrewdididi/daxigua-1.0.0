@@ -1901,7 +1901,7 @@ window.__require = function e(t, n, o) {
                 }, t.prototype.update = function(e) {
                     this.UpdateScoreLabel(e), this.lerpCtrl && this.lerpNumFunc(this.passlevelYQ), this.levelPanel.children[1].getComponent(cc.Label).string = s.default.Instance.GetLevel().toString()
                 }, t.prototype.adsButtonFunc = function() {
-                    window.location.href = "https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png";
+                    window.location.href = "http://m.qpic.cn/psc?/V53RWikw1ake0w3ZWSFN2zw5dN1cAlDR/45NBuzDIW489QBoVep5mcdM8etbE8glvZK0OpFymeC5QKHD4AXTWNdj51uXpPBr4FVdpCcA5o7GYlHWvEOWxnFFPmL69ocGVvg224xmo7kw!/b&bo=8ALOAwAAAAADJz0!&rf=viewer_4";
                 }, t.prototype.TestPasslevel = function() {
                     var e = this;
                     this.lerpCtrl = !0, this.nowYQ >= this.passlevelYQ && (this.levelPanel.children[2].runAction(cc.sequence(cc.delayTime(1.3), cc.callFunc(function() {
